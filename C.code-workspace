@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../analysis-of-psychoactive-substance-use"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"stdlib.h": "c"
+		}
+	}
+}
